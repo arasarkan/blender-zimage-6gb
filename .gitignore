@@ -1,0 +1,7 @@
+# generated
+outputs/
+*.blend1
+__pycache__/
+
+# machine-specific (paths found by setup)
+config.json
